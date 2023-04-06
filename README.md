@@ -117,7 +117,7 @@ I have a technical mindset that helps me solve difficult tasks. I have experienc
 
 ### ⚙️ GitHub Analytics
 
-<table style="border:0; border-collapse:collapse; border-spacing:0;border-style:none;">
+<table style="border:None; border-collapse:collapse; border-spacing:0; border-style:none;">
     <tr>
         <td>
             <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=serj-goa&theme=vision-friendly-dark" alt="webDev's Github stats" />
