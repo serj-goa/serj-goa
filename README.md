@@ -17,7 +17,7 @@
 
 <!-- <br /> -->
 
-## 👨‍💻 &nbsp;About Me:
+### 👨‍💻 &nbsp;About Me:
 I’m a Python Backend Developer.
 <!-- I am Serhii Borodin.
 I am a sociable and purposeful person. 
@@ -117,7 +117,7 @@ I have a technical mindset that helps me solve difficult tasks. I have experienc
 
 ### ⚙️ GitHub Analytics
 
-<table>
+<table style="border:0;">
     <tr>
         <td>
             <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=serj-goa&theme=vision-friendly-dark" alt="webDev's Github stats" />
