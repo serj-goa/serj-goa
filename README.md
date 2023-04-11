@@ -18,7 +18,8 @@ I’m a Python Backend Developer.
 - 🔭 I’m developing a backend for web applications.
 - ⚡ I’m constantly learning new things.
 - 🌱 I’m currently learning **Python, Django**.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-serhii--borodin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-borodin/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-serhii--borodin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-borodin/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bsy.prog@gmail.com)
+
 
 ---
 
@@ -60,7 +61,7 @@ I’m a Python Backend Developer.
 - Django - [ToDoList Project](https://github.com/serj-goa/todolist_project)
 - Python - [Dating bot VK-Finder](https://github.com/serj-goa/vk-finder-project)
 - SQL - [Working with SQL queries](https://github.com/serj-goa/northwind-traders-db)
-- HTML, CSS - [Lawer-center landing page](https://github.com/serj-goa/lawer-center-landing-page-project)
+- HTML, CSS - [Lawyer-center landing page](https://github.com/serj-goa/lawer-center-landing-page-project)
 <!-- - [Сертификат Python-разработчик]()
 - [Резюме]() -->
 <br/>  
