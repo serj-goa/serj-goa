@@ -61,7 +61,7 @@ I’m a Python Backend Developer.
 - Django, Docker - [ToDoList Project](https://github.com/serj-goa/todolist_project)
 - Python, PostgreSQL, API - [Dating bot VK-Finder](https://github.com/serj-goa/vk-finder-project)
 - Python, PostgreSQL - [Working with SQL queries](https://github.com/serj-goa/northwind-traders-db)
-- HTML, CSS - [Lawyer-center landing page](https://github.com/serj-goa/lawer-center-landing-page-project)
+- HTML, CSS - [Lawyer-center landing page](https://github.com/serj-goa/lawyer-center-landing-page-project)
 <!-- - [Сертификат Python-разработчик]()
 - [Резюме]() -->
 <br/>  
